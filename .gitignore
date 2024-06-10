@@ -1,3 +1,5 @@
 dl-venv/
 data/*
 !data/.gitkeep
+file/
+checkpoints/
